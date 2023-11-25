@@ -1,17 +1,31 @@
-# Vincent Kipkurui - Full Stack Developer
+# Vincent Kipkurui
 
-## About Me
+## Contact Information
+- **Email:** vincentbettoh@gmail.com
+- **GitHub:** [OnpointSoftwares](https://github.com/OnpointSoftwares)
+- **LinkedIn:** [Vincent Kipkurui](https://www.linkedin.com/in/vincent-kipkurui-07baa2267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Google Developer Profile:** [Vincent Kipkurui - Google Developer](https://developers.google.com/profile/u/116900834125174562903)
+- **Phone:** +254702502952
+- **Location:** NAKURU,KENYA.
 
-I am a dedicated and skilled Full Stack Developer with a passion for creating innovative solutions. Currently pursuing a degree in Information Technology at Kabarak University, I bring expertise in various technologies, including PHP, HTML, CSS, JavaScript, Kotlin, and Python. My experience extends to web and mobile development, IoT projects, and AI applications.
+---
+
+## Summary
+
+Dedicated and skilled Full Stack Developer and AI enthusiast pursuing a degree in Information Technology at Kabarak University, expected to graduate in December 2025. Graduated from Chemamul Boys High School in 2017. Expertise in PHP, HTML, CSS, JavaScript, Kotlin for Android, XML, and Python for AI. Proficient in MVVM and MVC architectural patterns. Experienced in developing websites, mobile applications, and working on IoT projects. Proven track record of collaborating with teams for WordPress site development, including notable work on Christ Fellowship Chapel Church's website. Strong background in database management using SQL and Firebase. Knowledgeable in deploying applications using Flask and Node.js.
+
+---
 
 ## Education
 
-- **Kabarak University**
-  - *Bachelor of Science in Information Technology*
-  - *Expected Graduation Date: December 2025*
+**Kabarak University**
+- *Bachelor of Science in Information Technology*
+- *Expected Graduation Date: December 2025*
 
-- **Chemamul Boys High School**
-  - *Graduation Year: 2017*
+**Chemamul Boys High School**
+- *Graduation Year: 2017*
+
+---
 
 ## Technical Skills
 
@@ -24,9 +38,11 @@ I am a dedicated and skilled Full Stack Developer with a passion for creating in
 - **Deployment:** Flask, Node.js
 - **CMS:** WordPress
 
+---
+
 ## Experience
 
-### Stairway Tech Development (January 2022 - Present)
+### Stairway Tech Development
 - **Role:** Full Stack Developer
 - **Start Date:** January 2022
 - **Responsibilities:**
@@ -44,23 +60,28 @@ I am a dedicated and skilled Full Stack Developer with a passion for creating in
   - **Email:** stairwaytech1@gmail.com
   - **Phone:** +254 705147494
 
+
+---
+
 ## Projects
 
 ### Christ Fellowship Chapel Church Website
-- Developed a modern and responsive website for Pastor David Kituyi's Christ Fellowship Chapel Church, incorporating dynamic content and user-friendly features.
+- **Description:** Developed a modern and responsive website for Pastor David Kituyi's Christ Fellowship Chapel Church, incorporating dynamic content and user-friendly features.
 - **Technologies Used:** WordPress, PHP, HTML, CSS, JavaScript
 - **Link:** [www.christfellowshipchapel.org](https://www.christfellowshipchapel.org/)
 
 ### Chaddy Mission School Website
-- Developed a website for Chaddy Mission School, Nakuru, enhancing online presence and communication.
+- **Description:** Developed a website for Chaddy Mission School, Nakuru, enhancing online presence and communication.
 - **Technologies Used:** WordPress, PHP, HTML, CSS, JavaScript
 - **Contact:** Geofrey Mbugua, Director, +254 714950817, info@chaddymissionschool.com
 - **Link:** [chaddymissionschool.com](https://chaddymissionschool.com/)
 
 ### Elmolo Volunteers Website
-- Created a website for Elmolo Volunteers, promoting their mission and facilitating online engagement.
+- **Description:** Created a website for Elmolo Volunteers, promoting their mission and facilitating online engagement.
 - **Technologies Used:** WordPress, PHP, HTML, CSS, JavaScript
 - **Link:** [elmolovolunteersafrica.org](https://elmolovolunteersafrica.org/)
+
+---
 
 ## Hackathons and Bootcamps
 
@@ -79,9 +100,7 @@ I am a dedicated and skilled Full Stack Developer with a passion for creating in
   - **Date:** 9th November 2023
   - **Participation:** Attended
 
-## Certifications
-
-*List any relevant certifications you have.*
+---
 
 ## Google Developer Badges
 
@@ -94,6 +113,8 @@ I am a dedicated and skilled Full Stack Developer with a passion for creating in
 7. Created Google Developer Profile
 8. Android Studio User
 
+---
+
 ## Memberships
 
 - **Google Developer Student Club Kabarak University**
@@ -102,14 +123,18 @@ I am a dedicated and skilled Full Stack Developer with a passion for creating in
 - **Zindi Africa**
   - **Profile Link:** [Zindi Africa](https://zindi.africa/users/vincentbettoh)
 
-## Contact
-
-- **Email:** vincentbettoh@gmail.com
-- **GitHub:** [OnpointSoftwares](https://github.com/OnpointSoftwares)
-- **LinkedIn:** [Vincent Kipkurui](https://www.linkedin.com/in/vincent-kipkurui-07baa2267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Google Developer Profile:** [Vincent Kipkurui - Google Developer](https://developers.google.com/profile/u/116900834125174562903)
-- **Phone:** +254702502952
-
 ---
 
-Feel free to make any additional adjustments or include more details as needed. If there's anything specific you'd like to highlight or add, let me know!
+## References
+
+- **Geofrey Mbugua**
+  - **Position:** Director, Chaddy Mission School, Nakuru
+  - **Contact:** +254 714950817, info@chaddymissionschool.com
+
+- **David Kituyi**
+  - **Position:** Pastor, Christ Fellowship Chapel Church
+  - **Contact:** +254 724740854, dkituyi@gmail.com
+
+- **Stairway Tech Team**
+  - **Email:** stairwaytech1@gmail.com
+  - **Phone:** +254 705147494
